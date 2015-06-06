@@ -1,2 +1,2 @@
-require File.join('omniauth', 'moviepass')
-require File.join('omniauth', 'strategies')
+require File.join('omniauth', 'moviepass', 'version')
+require File.join('omniauth', 'strategies', 'moviepass')
