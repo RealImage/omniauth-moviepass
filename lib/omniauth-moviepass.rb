@@ -1,2 +1,2 @@
-require "omniauth-moviepass/version"
-require 'strategies/moviepass'
+require File.join('omniauth', 'moviepass')
+require File.join('omniauth', 'strategies')
